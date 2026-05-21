@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Crea tu propia opinion</title>
+</head>
+
+<body>
+
+    <h1>crea tu propia opinion</h1>
+
+    <p>Aquí puedes agregar tu opinion sobre un lugar, y subir archivos</p>
+
+    <a href="index.html">Volver al inicio</a>
+
+</body>
+
+</html>
