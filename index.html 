@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <div class="titulo">
+    <h1>ESTOY AQUI</h1>
+</div> <title>ESTOY AQUI</title>
+
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css"> 
+</head>
+
+<body>
+
+    <header>
+
+        <nav> 
+            <div class="banner"></div>
+            <img src="Imagenes/Imagen1.jpg" class=imagen-pequeña alt="Imagen">
+            <h2 class="texto">LO QUE BUSCAS, LO ENCUENTRAS</h2>
+</div>
+            <ul>
+                <li><a href="sobre-nosotros.html">Sobre nosotros</a></li>
+
+                <li><a href="crea-tu-propia-opinion.html">
+                    Crea tu propia opinión
+                </a></li>
+
+                <li><a href="ciudad-pais.html">Ciudad/País</a></li>
+
+                <li><a href="donde-comer.html">Dónde comer</a></li>
+
+                <li><a href="resenas.html">Reseñas</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+</body>
+
+</html>
